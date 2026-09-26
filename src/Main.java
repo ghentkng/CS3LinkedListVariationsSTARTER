@@ -3,9 +3,9 @@ public class Main {
 
         SinglyLL sll = new SinglyLL();
         //  testPrintingElems(sll);
-        //  testAddingElems(sll);
-        //  testRemovingElems(sll);
-        //  testReversePrintingElems(sll);
+        //   testAddingElems(sll);
+        //   testRemovingElems(sll);
+        //   testReversePrintingElems(sll);
 
         DoublyLL dll = new DoublyLL();
         // testPrintingElems(dll);
