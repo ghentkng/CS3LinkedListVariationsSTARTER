@@ -1,0 +1,17 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "c:\\Users\\ghent\\Downloads\\commons-io-2.14.0-bin\\commons-io-2.14.0\\commons-io-2.14.0-sources.jar",
+        "c:\\Users\\ghent\\Downloads\\commons-io-2.14.0-bin\\commons-io-2.14.0\\commons-io-2.14.0-test-sources.jar",
+        "c:\\Users\\ghent\\Downloads\\commons-io-2.14.0-bin\\commons-io-2.14.0\\commons-io-2.14.0.jar",
+        "c:\\Users\\ghent\\Downloads\\commons-io-2.14.0-bin\\commons-io-2.14.0\\commons-io-2.14.0-javadoc.jar",
+        "c:\\Users\\ghent\\Downloads\\commons-io-2.14.0-bin\\commons-io-2.14.0\\commons-io-2.14.0-tests.jar",
+        "c:\\Users\\ghent\\Downloads\\commons-lang3-3.13.0-bin\\commons-lang3-3.13.0\\commons-lang3-3.13.0.jar",
+        "c:\\Users\\ghent\\Downloads\\commons-lang3-3.13.0-bin\\commons-lang3-3.13.0\\commons-lang3-3.13.0-javadoc.jar",
+        "c:\\Users\\ghent\\Downloads\\commons-lang3-3.13.0-bin\\commons-lang3-3.13.0\\commons-lang3-3.13.0-sources.jar",
+        "c:\\Users\\ghent\\Downloads\\commons-lang3-3.13.0-bin\\commons-lang3-3.13.0\\commons-lang3-3.13.0-tests.jar",
+        "c:\\Users\\ghent\\Downloads\\commons-lang3-3.13.0-bin\\commons-lang3-3.13.0\\commons-lang3-3.13.0-test-sources.jar"
+    ]
+}
